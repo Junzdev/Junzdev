@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in coding
 
-- 🌱 I’m currently learning in html, css, js
+- 🌱 I’m currently learning  html, css and js
 
 
 - 📫 Follow me on facebook
