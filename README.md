@@ -1,14 +1,11 @@
 - 👋 Hi, I’m Jun Jaam
 
-- 👀 I’m interested in coding
+- 👀 I don't actually know how to code, 
+     I only love modifying others code.
 
-- 🌱 I’m currently learning  html, css and js
+- 🌱 I want to learn HTML, JS AND CSS
 
-
+- 🤭 My hobby is
 - 📫 Follow me on facebook
        Facebook.com/Junzjaam
-
-<!---
-Junzdev/Junzdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
