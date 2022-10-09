@@ -8,5 +8,5 @@
 
 - 🤭 My hobby is reading books, watching anime, playing games
 
-My Facebook acc: [Jun Jaam](https://www.facebook.com/Junzjaam)
+<a href="https://m.me/junzjaam" target="_blank"><img src="https://img.shields.io/badge/Messenger-KasRoudra-blue?style=for-the-badge&logo=messenger"></a>
  
