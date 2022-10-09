@@ -8,5 +8,5 @@
 
 - 🤭 My hobby is reading books, watching anime, playing games
 
-<a href="https://m.me/junzjaam" target="_blank"><img src="https://img.shields.io/badge/Messenger-KasRoudra-blue?style=for-the-badge&logo=messenger"></a>
+<a href="https://m.me/junzjaam" target="_blank"><img src="https://img.shields.io/badge/Messenger-JUNJAAM-blue?style=for-the-badge&logo=messenger"></a>
  
