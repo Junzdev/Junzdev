@@ -6,9 +6,8 @@
 
 - 🌱 I want to learn HTML, JS AND CSS.
 
-- 🤭 My hobby is reading books, watching anime, playing games
+- 🤭 My hobby is reading books, watching anime, playing games and sleeping
 
-<a href="https://m.me/junzjaam" target="_blank"><img src="https://img.shields.io/badge/Messenger-JUNJAAM-blue?style=for-the-badge&logo=messenger"></a>
  
 <h3><b><i>📡 Get in Touch :</i></b></h3>
 <a href="https://github.com/junzdev"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
