@@ -14,4 +14,4 @@
 <a href="https://fb.com/junzjaam"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
 <a href="https://m.me/junzjaam"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
 <a href="https://friend.chess.com/4vbTx"><img align="left" title="Chess" alt="Chess" width="30px" src="assets/phpmeXx6V.png" /></a>
-<a href="https://tiktok.com/@junjaam"><img align="left" title="Tiktok" alt="Tiktok" width="20px" src="assets/TikTok.png" /></a>
+<a href="https://tiktok.com/@junjaam"><img align="left" title="Tiktok" alt="Tiktok" width="28px" src="assets/TikTok.png" /></a>
