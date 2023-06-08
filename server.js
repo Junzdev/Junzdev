@@ -42,7 +42,7 @@ function getFilteredQuotes(req) {
   }
 
   // No request parameters (filters), so use default value of allQuotes
-  return allQuotes;
+  return allQuiz;
 }
 
 // index
@@ -53,13 +53,13 @@ app.get("/", (req, res) => {
 // get random lyrics
 app.get("/get", (req, res) => {
   setHeaderInformation(res);
-  res.send(getRandomElementFrom(getFilteredQuotes(req)));
+  res.send(getRandomElementFrom(getFilteredQuiz(req)));
 });
 
 // get all lyrics that match with the filters
 app.get("/get-all", (req, res) => {
   setHeaderInformation(res);
-  res.send(getFilteredQuotes(req));
+  res.send(getFilteredQuiz(req));
 });
 
 app.listen(process.env.PORT || port, function () {
