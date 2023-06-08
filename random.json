@@ -1,4 +1,4 @@
-[
+const allQuiz = [
 {
 "question": "What is the capital of France?\nA: Berlin\nB: Rome\nC: Paris\nD: Madrid",
  "answer": "C"
