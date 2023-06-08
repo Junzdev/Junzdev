@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const port = 3000;
 const path = require("path");
-const { allQuotes } = require("./taylorquotes");
+const { allQuiz } = require("./random");
 app.use(express.static("views"));
 
 String.prototype.toTitleCase = function () {
