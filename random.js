@@ -470,4 +470,9 @@ const allQuiz = [
 "question": "What is the name of the famous American singer who is known for hits such as 'Nothing Compares 2 U' and 'Purple Rain'?\nA: Prince\nB: Michael Jackson\nC: Elvis Presley\nD: Freddie Mercury",
 "answer": "A"
 }
-]
+];
+module.exports = {
+
+  allQuiz,
+
+};
