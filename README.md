@@ -1,8 +1,7 @@
 
 - 👋 Hi, I’m Jun Jaam.
 
-- 👀 I don't actually know how to code, 
-     I only love modifying other's code.
+- 👀 Just having fun coding.
 
 - 🌱 I want to learn HTML, JS AND CSS.
 
